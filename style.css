@@ -1,0 +1,16 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+header {
+	height: 200px;
+	width: 100%;
+	background: #EE82EE;
+}
+
+.mainlogo {
+	width: 1000px;
+	margin: auto;
+	padding-bottom: 20px;
+}
